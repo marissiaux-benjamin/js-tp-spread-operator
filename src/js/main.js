@@ -1,4 +1,3 @@
-
 document.querySelector('html').classList.add('js-enabled');
 
 const h1Selector = document.querySelector('.jump');
@@ -17,43 +16,3 @@ for (const lettre of lettresSeparees) {
         h1Selector.insertAdjacentHTML('beforeend', `<span>${nbsp}</span>`);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
